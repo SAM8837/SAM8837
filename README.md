@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UNbe0yguf2XoNZWz8O_ejZWemNFES-0xYA&usqp=CAU" alt="Img" width="40%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UNbe0yguf2XoNZWz8O_ejZWemNFES-0xYA&usqp=CAU" alt="Img" width="30%">
 
 <h1 align="center">ASALAM-U-ALAIKUM 👋, I'm Syed Abdul Moiz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
