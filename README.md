@@ -1,6 +1,6 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UNbe0yguf2XoNZWz8O_ejZWemNFES-0xYA&usqp=CAU" alt="Img" width="50%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UNbe0yguf2XoNZWz8O_ejZWemNFES-0xYA&usqp=CAU" alt="Img" width="40%">
 
-<h1 align="center">Hi 👋, I'm Syed Abdul Moiz</h1>
+<h1 align="center">ASALAM-U-ALAIKUM 👋, I'm Syed Abdul Moiz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam8837&label=Profile%20views&color=0e75b6&style=flat" alt="sam8837" /> </p>
